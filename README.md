@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @mahdi-chy with actual name Mahdi Chowdhury
-- 👀 I’m interested in ... games,programming,Godot,cross platform games and apps
-- 🌱 I’m currently learning ...advanced c++ and Godot.
-- 💞️ I’m looking to collaborate on ... any kind of game development with c++, python and willing to learn. 
+- 👋 Hi, I’m @mahdi-chy with actual name Md. Mahdi Chowdhury
+- 👀 I’m interested in ... games,programming,Godot,cross platform games and apps like flutter
+- 🌱 I’m currently learning ...advanced dart and Flutter.
+- 💞️ I’m looking to collaborate on ... any kind of software development with c++, python, dart and willing to learn. 
 - 📫 How to reach me ... my email is mahdichy55@gmail.com 
 
 <!---
